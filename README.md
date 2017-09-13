@@ -5,4 +5,4 @@ an iOS app for classifying locations' audio content in real time
 <img src="https://github.com/anGie44/recWAV/tree/master/imgs/requests-screen.png" height="100" width="200" />
 
 
-![Alt text](/../master/imgs/map-screen.png?raw=true "Optional Title")
+![Map Home Screen](/../master/imgs/map-screen.png?raw=true "Optional Title")
