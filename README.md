@@ -1,7 +1,7 @@
 # recWAV
 an iOS app for classifying locations' audio content in real time
 
-software stack:
+**software stack:**
 * back-end: 
   * server: Apache 
   * database: MySQL
