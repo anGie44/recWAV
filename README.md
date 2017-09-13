@@ -1,7 +1,7 @@
 # recWAV
 an iOS app for classifying locations' audio content in real time
 
-<a href="url"><img src="https://github.com/anGie44/recWAV/tree/master/imgs/map-screen.png" align="left" height="48" width="48" >Map Home</a>
+<img src="https://github.com/anGie44/recWAV/tree/master/imgs/map-screen.png" align="left" height="48" width="48" >
 
 
 ![Map Home][map-screen]
